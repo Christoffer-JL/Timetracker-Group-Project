@@ -1,0 +1,11 @@
+ @import url('https://fonts.googleapis.com/css2?family=Inter');
+ 
+ :root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  color-scheme: dark;
+  color: #fff;
+  background-color: #181818;
+}
+body {
+  color: #fff;
+}
