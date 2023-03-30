@@ -13,6 +13,6 @@ To get started with the Timetracker system, simply clone this repository and fol
 In addition to the source code, this repository includes a folder containing documents that were produced by the group throughout the course of the project. These documents provide further insight into the development process and can be useful for anyone interested in learning more about how the system was built.
 
 ## Acknowledgements
-We are very pleased with the result of this project and would like to acknowledge the hard work and dedication of all 23 team members who contributed to its success. Special thanks to Nils, my co-lead partner, for their leadership and guidance throughout the development process.
+We are very pleased with the result of this project and would like to acknowledge the hard work and dedication of all 23 team members who contributed to its success. Special thanks to Nils, my co-lead partner, for their hard work and support throughout the development process.
 
 Additional thanks to you, the reader, for taking interest in the Timetracker Group Project!
