@@ -1,7 +1,7 @@
 # Timetracker Group Project
 Welcome to the Timetracker Group Project! This is a project that was completed by a team of 23 individuals, including myself as one of the project leads, as part of a school assignment. The goal of this project was to learn how to work collaboratively in a large group setting.
 As project leads, my co-lead and I were responsible for overseeing the development process, coordinating tasks and timelines, and ensuring that the project met all of the assignment requirements. We worked closely with the other team members to ensure that everyone had the support and resources they needed to succeed. 
-**A demonstration of the system has been recorded by me and can be found uploaded to Youtube on this link: https://youtu.be/zdRcE4xK6-o (Note that this is in swedish).**
+**A demonstration of the system has been recorded by me and can be found uploaded to Youtube on this link: https://youtu.be/zdRcE4xK6-o (Note that even though this is in swedish, english subtitles are provided).**
 
 ## Project Overview
 The Timetracker system is a full-stack web application that allows users to track their time spent on various tasks. The backend of the system is written in Java, while the frontend uses HTML, TypeScript, and CSS. The Svelte framework was utilized to develop the frontend.
