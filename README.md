@@ -9,7 +9,8 @@ The Timetracker system is a full-stack web application that allows users to trac
 To get started with the Timetracker system, simply clone this repository and follow the instructions in the README files located in the backend and frontend directories. The system is designed to be run on a server and accessed through a web browser.
 
 ## Additional Resources
-In addition to the source code, this repository includes a demo video created by me (with English subtitles) and a folder containing documents that were produced by the group throughout the course of the project. These documents provide further insight into the development process and can be useful for anyone interested in learning more about how the system was built.
+In addition to the source code, this repository includes a folder containing documents that were produced by the group throughout the course of the project. These documents provide further insight into the development process and can be useful for anyone interested in learning more about how the system was built.
+Also, a demo of the system has been recorded by me and can be found uploaded to Youtube on this link: https://youtu.be/zdRcE4xK6-o (Note that this is in swedish).
 
 ## Acknowledgements
 We are very pleased with the result of this project and would like to acknowledge the hard work and dedication of all 23 team members who contributed to its success. Special thanks to Nils, my co-lead partner, for their leadership and guidance throughout the development process.
