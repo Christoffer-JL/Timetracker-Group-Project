@@ -3,6 +3,16 @@ Welcome to the Timetracker Group Project! This is a project that was completed b
 As project leads, my co-lead and I were responsible for overseeing the development process, coordinating tasks and timelines, and ensuring that the project met all of the assignment requirements. We worked closely with the other team members to ensure that everyone had the support and resources they needed to succeed. 
 **A demonstration of the system has been recorded by me and can be found uploaded to Youtube on this link: https://youtu.be/zdRcE4xK6-o (Note that even though this is in swedish, english subtitles are provided).**
 
+## Images
+![bild](https://github.com/Christoffer-JL/Timetracker-Group-Project/assets/119742508/a82530f4-4748-4952-a161-26ab7507a636)
+![bild](https://github.com/Christoffer-JL/Timetracker-Group-Project/assets/119742508/aca97636-4c56-4df7-9b98-cc215d3d76d0)
+![bild](https://github.com/Christoffer-JL/Timetracker-Group-Project/assets/119742508/77939124-fba5-49c8-9904-0a7cb1311086)
+![bild](https://github.com/Christoffer-JL/Timetracker-Group-Project/assets/119742508/d5936bfe-1be9-4b58-8dfe-4448d41a4e56)
+![bild](https://github.com/Christoffer-JL/Timetracker-Group-Project/assets/119742508/a4f7b182-cc9f-444d-a30c-39b8f81e8198)
+![bild](https://github.com/Christoffer-JL/Timetracker-Group-Project/assets/119742508/b23b0574-b3ba-448c-a6c3-91c8f97599d5)
+![bild](https://github.com/Christoffer-JL/Timetracker-Group-Project/assets/119742508/5e53f4bd-7f04-467f-adbb-da0bb1c9d571)
+
+
 ## Project Overview
 The Timetracker system is a full-stack web application that allows users to track their time spent on various tasks. The backend of the system is written in Java, while the frontend uses HTML, TypeScript, and CSS. The Svelte framework was utilized to develop the frontend.
 
